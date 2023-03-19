@@ -1,1 +1,1 @@
-# IBM-Data Science Respository
+# IBM Data Science Respository
